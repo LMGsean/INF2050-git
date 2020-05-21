@@ -2,12 +2,4 @@ Hello world
 
 This is my INF2050 git file!
 
-
-JE TE HACK JE DELTE TOUS TES FICHIERS
-I AM A VIRUS
-A DIRTY ONE
-MONKAS
-LULULULULUL
-
-
 Good bye.
